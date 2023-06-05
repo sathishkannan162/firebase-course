@@ -22,3 +22,6 @@ public-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# firebase
+.firebase/hosting*
